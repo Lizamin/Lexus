@@ -283,13 +283,6 @@
     lodash "^4.17.11"
     to-fast-properties "^2.0.0"
 
-"@ng-bootstrap/ng-bootstrap@~4.0.0":
-  version "4.0.5"
-  resolved "https://registry.yarnpkg.com/@ng-bootstrap/ng-bootstrap/-/ng-bootstrap-4.0.5.tgz#4c27922f70a36a32e3ec7eb8d4eb6761c622f6d7"
-  integrity sha512-teQ3oNCfdMF/+//LmnF8Kf/2bdEoj90p0cPuKFhAMkyUUY7EAnN8JZfN+tVcGJnWkPxF4yCFYRdi+tDk0gUjdA==
-  dependencies:
-    tslib "^1.9.0"
-
 "@ngtools/webpack@7.1.4":
   version "7.1.4"
   resolved "https://registry.yarnpkg.com/@ngtools/webpack/-/webpack-7.1.4.tgz#632ece6ed8e05fe743554cc935be36a653376f01"
@@ -4287,9 +4280,9 @@ lodash.tail@^4.1.1:
   integrity sha1-0jM6NtnncXyK0vfKyv7HwytERmQ=
 
 lodash@^4.0.0, lodash@^4.17.10, lodash@^4.17.11, lodash@^4.17.4, lodash@^4.17.5, lodash@^4.5.0, lodash@~4.17.10:
-  version "4.17.14"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.14.tgz#9ce487ae66c96254fe20b599f21b6816028078ba"
-  integrity sha512-mmKYbW3GLuJeX+iGP+Y7Gp1AiGHGbXHCOh/jZmrawMmsE7MS4znI3RL2FsjbqOyMayHInjOeykW7PEajUk1/xw==
+  version "4.17.19"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.19.tgz#e48ddedbe30b3321783c5b4301fbd353bc1e4a4b"
+  integrity sha512-JNvd8XER9GQX0v2qJgsaN/mzFCNA5BRe/j8JN9d+tWyGLSodKQHKFicdwNYzWwI3wjRnaKPsGj1XkBjx/F96DQ==
 
 log4js@^3.0.0:
   version "3.0.6"

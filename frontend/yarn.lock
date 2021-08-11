@@ -283,13 +283,6 @@
     lodash "^4.17.11"
     to-fast-properties "^2.0.0"
 
-"@ng-bootstrap/ng-bootstrap@~4.0.0":
-  version "4.0.5"
-  resolved "https://registry.yarnpkg.com/@ng-bootstrap/ng-bootstrap/-/ng-bootstrap-4.0.5.tgz#4c27922f70a36a32e3ec7eb8d4eb6761c622f6d7"
-  integrity sha512-teQ3oNCfdMF/+//LmnF8Kf/2bdEoj90p0cPuKFhAMkyUUY7EAnN8JZfN+tVcGJnWkPxF4yCFYRdi+tDk0gUjdA==
-  dependencies:
-    tslib "^1.9.0"
-
 "@ngtools/webpack@7.1.4":
   version "7.1.4"
   resolved "https://registry.yarnpkg.com/@ngtools/webpack/-/webpack-7.1.4.tgz#632ece6ed8e05fe743554cc935be36a653376f01"
@@ -5366,9 +5359,9 @@ path-key@^2.0.0, path-key@^2.0.1:
   integrity sha1-QRyttXTFoUDTpLGRDUDYDMn0C0A=
 
 path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
-  integrity sha512-GSmOT2EbHrINBf9SR7CDELwlJ8AENk3Qn7OikK4nFYAu3Ote2+JYNVvkpAEQm3/TLNEJFD/xZJjzyxg3KBWOzw==
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
+  integrity sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==
 
 path-to-regexp@0.1.7:
   version "0.1.7"
